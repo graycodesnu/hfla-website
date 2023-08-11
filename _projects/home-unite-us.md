@@ -124,11 +124,23 @@ technologies:
   - React
   - NoSQL
   - Flask
-  - Amazon Cognito / OIDC / OAuth2
+  - Amazon Cognito
+  - OIDC
+  - OAuth2
   - MongoDB
 location:
   - Remote
-tools: Figma, AWS, Nginx, Docker, Style Components, Zoom, GitHub, Google Drive, Docs, Sheets, Slides
+tools: 
+  - Figma
+  - AWS
+  - Nginx
+  - Style Components
+  - Zoom
+  - GitHub
+  - Google Drive
+  - Docs
+  - Sheets
+  - Slides
 partner: Safe Place for Youth (SPY), Point Source Youth (PSY)
 visible: true
 program-area:
